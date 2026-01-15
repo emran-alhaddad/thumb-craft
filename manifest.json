@@ -1,0 +1,23 @@
+{
+  "name": "ThumbCraft - Video Thumbnail Generator",
+  "short_name": "ThumbCraft",
+  "description": "Create stunning video thumbnails for social media platforms",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
